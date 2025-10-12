@@ -4,4 +4,4 @@ jupyter
 ipykernel
 matplotlib
 seaborn
-
+scikit-learn
