@@ -44,3 +44,5 @@ htmlcov/
 *.bak
 *.swp
 
+./week8/data/
+./week8/data.zip
