@@ -46,3 +46,8 @@ htmlcov/
 
 week8/data/
 week8/data.zip
+
+./week*/*.keras
+
+*.onnx.*
+*.onnx
